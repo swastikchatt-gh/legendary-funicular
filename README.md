@@ -158,4 +158,4 @@ Use at your own risk.
 
 ## License
 
-Specify your preferred license here (e.g., MIT, Apache 2.0, GPLv3).
+SLIC
